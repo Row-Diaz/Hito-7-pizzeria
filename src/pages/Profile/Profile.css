@@ -1,0 +1,15 @@
+Form, h3, input, label {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+  }
+
+  .boton3{
+    border: 1px solid;
+    padding: 5px;
+    background-color:  #3e3f3e;
+    border-radius: 5px;
+    text-decoration: none;
+  }
