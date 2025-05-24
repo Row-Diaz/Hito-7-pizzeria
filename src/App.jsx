@@ -10,7 +10,7 @@ function App() {
       <BrowserRouter>
       <UserProvider>
       <CartProvider>
-        <Header />
+        {/* <Header /> */}
         <Navbar />
         <Routes>
           <Route index element={<Home />} />
